@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlternativeResources</string>
+    <string name="textfield1">Text1</string>
+    <string name="textfield2">Text2</string>
+    <string name="button">Button</string>
+</resources>
